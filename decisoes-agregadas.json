@@ -1,0 +1,29 @@
+{
+  "opa": {
+    "n": 96,
+    "correct": 96,
+    "indeterminate": 0,
+    "false_negative": 0,
+    "false_positive": 0,
+    "process_median_seconds": 0.010343771001316782,
+    "process_total_seconds": 0.9972850829963136
+  },
+  "gator": {
+    "n": 96,
+    "correct": 96,
+    "indeterminate": 0,
+    "false_negative": 0,
+    "false_positive": 0,
+    "process_median_seconds": 0.021592228999907093,
+    "process_total_seconds": 2.0745137499925477
+  },
+  "kyverno": {
+    "n": 96,
+    "correct": 60,
+    "indeterminate": 0,
+    "false_negative": 36,
+    "false_positive": 0,
+    "process_median_seconds": 0.1749656664997019,
+    "process_total_seconds": 16.933412501997736
+  }
+}

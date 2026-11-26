@@ -1,0 +1,39 @@
+{
+  "reserva_historica": {
+    "posicoes": 17,
+    "sinais_pre_diff_ligados_a_correcao": 9,
+    "sem_deteccao": 5,
+    "outros_desfechos": 3
+  },
+  "contraste_focal": {
+    "decisoes": 144,
+    "entradas": 36,
+    "concordancias_entre_motores": 72,
+    "resultados_por_revisao_e_motor": {
+      "parent_opa": {
+        "decisions": 36,
+        "correct": 30,
+        "metamorphic_pairs": 18,
+        "metamorphic_violations": 6
+      },
+      "parent_gator": {
+        "decisions": 36,
+        "correct": 30,
+        "metamorphic_pairs": 18,
+        "metamorphic_violations": 6
+      },
+      "fix_opa": {
+        "decisions": 36,
+        "correct": 36,
+        "metamorphic_pairs": 18,
+        "metamorphic_violations": 0
+      },
+      "fix_gator": {
+        "decisions": 36,
+        "correct": 36,
+        "metamorphic_pairs": 18,
+        "metamorphic_violations": 0
+      }
+    }
+  }
+}

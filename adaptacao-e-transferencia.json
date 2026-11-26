@@ -1,0 +1,30 @@
+{
+  "original_kyverno_reparo": {
+    "n": 96,
+    "correct": 96,
+    "indeterminate": 0,
+    "false_negative": 0,
+    "false_positive": 0
+  },
+  "transfer_gator": {
+    "n": 48,
+    "correct": 48,
+    "indeterminate": 0,
+    "false_negative": 0,
+    "false_positive": 0
+  },
+  "transfer_kyverno": {
+    "n": 48,
+    "correct": 28,
+    "indeterminate": 0,
+    "false_negative": 20,
+    "false_positive": 0
+  },
+  "transfer_kyverno_reparo": {
+    "n": 48,
+    "correct": 48,
+    "indeterminate": 0,
+    "false_negative": 0,
+    "false_positive": 0
+  }
+}
